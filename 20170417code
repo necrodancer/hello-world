@@ -1,0 +1,14 @@
+/*
+This code was made for me to have a habit that I practice programming day after day.
+This code prints "I'm the king of the world.".
+*/
+
+#include <iostream>
+
+using namespace std;
+
+int main() {
+    cout<<"I'm the king of the world."<<endl;
+
+    return 0;
+}
