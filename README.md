@@ -1,6 +1,4 @@
-# hello-world
+# Daily Codes
 
-Hi Humans!
+I will use this repository to store any source code I made no matter how it is simple.
 
-Hubot here, I like Node.js and Coffescript (that's what I'm made of!).
-I've had tacos on the moon and find them far superior to Earth tacos.
